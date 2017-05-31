@@ -1,1 +1,2 @@
-include ':app', ':min3d'
+include ':app'
+include ':min3d'
